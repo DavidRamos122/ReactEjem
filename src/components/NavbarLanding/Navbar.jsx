@@ -1,5 +1,7 @@
 // import React from 'react'
 import "./Navbar.css"
+
+//Este es mi Navbar que es un componente global donde estan los links de mi wep
 const Navbar = () => {
   return (
     <nav className="navbar">

@@ -1,5 +1,8 @@
 // import React from 'react'
 import "./Header.css"
+
+//Este es mi Header que es un componente global
+
 const Header = () => {
   return (
     <header className="header">
