@@ -1,0 +1,17 @@
+.navbar{
+    background-color: #f8f8ff;
+    padding: 1pc 0;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); 
+}
+.navbar a{
+    color: #4B0082;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+.navbar a:hover{
+    color: #8A2BE2;
+    text-decoration: underline;
+}

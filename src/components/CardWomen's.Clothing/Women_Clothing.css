@@ -1,0 +1,33 @@
+.containerUno {
+    display: flex;
+    border: 2px solid rgb(157, 152, 152);   
+    flex-direction: column;
+    max-width: 200px;
+    margin: auto;
+    align-items: center;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.imagen{
+    border-radius: 10px;
+    border: 2px solid rgb(216, 208, 208);   
+    width: 200px;
+    height: 200px;
+}
+.boton{
+    background-color: #8A2BE2;   /* morado principal */
+    color: #fff;                 /* texto blanco */
+    border: none;                /* sin borde por defecto */
+    padding: 10px 25px;          /* espacio interno */
+    border-radius: 20px;         /* esquinas redondeadas */
+    font-size: 1rem;             /* tamaño de texto */
+    font-weight: 600;            /* texto seminegrita */
+    cursor: pointer;             /* mano al pasar */
+    margin-top: 10px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    width: 200px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+}

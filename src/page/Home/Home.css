@@ -1,0 +1,7 @@
+.cotainer{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    align-content: center;
+    justify-content: center;
+}
